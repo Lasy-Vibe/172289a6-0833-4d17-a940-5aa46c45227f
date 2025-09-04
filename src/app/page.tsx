@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <div className="min-h-screen bg-blue">
+    <div className="min-h-screen bg-blue-500">
       {/* Página em branco */}
     </div>
   );
